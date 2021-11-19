@@ -12,11 +12,26 @@ Scrollbar.init(document.querySelector('#main_page'), options);
 
 
 $('.slider_container .works_slider').slick({
-    infinite: true,
-    dots: false,
     autoplay: true,
-    speed: 700,
-    autoplaySpeed: 4000,
+    infinite: true,
+    dots: true,
     slidesToShow: 2,
-    slidesToScroll: 1
-});
+    slidesToScroll: 1,
+    responsive: [
+      {
+        breakpoint: 1024,
+        settings: {
+          slidesToShow: 2,
+          slidesToScroll: 2,
+          adaptiveHeight: true,
+        },
+      },
+      {
+        breakpoint: 600,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1,
+        },
+      },
+    ],
+  });	
