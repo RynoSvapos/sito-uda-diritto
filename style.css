@@ -1,0 +1,139 @@
+:root {
+    --main-color: #2D3142;
+    --secondary-color: #EF8354;
+    --main-color-1: #4F5D75;
+    --main-color-2: #BFC0C0;
+    --main-color-3: #FFFFFF;
+}
+
+html {
+    overflow: hidden;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    font-family: 'Poppins', sans-serif;
+}
+
+#main_page {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.header-site {
+    background-image: url('./img/header.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+}
+
+
+.navbar {
+
+    top: 10px !important;
+
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(255, 255, 255, 0.25);
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3);
+    width: 60%;
+    margin: auto;
+
+    justify-content: center;
+
+    -webkit-box-shadow: 2px -2px 50px -5px rgb(0 0 0 / 10%);
+    box-shadow: 2px -2px 50px -5px rgb(0 0 0 / 10%);
+}
+
+.navbar-menu-r {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar-item-r {
+    color: #4a4a4a;
+    display: block;
+    line-height: 1.5;
+    padding: 0.5rem .75rem;
+    position: relative;
+}
+
+
+.scritta_header {
+    color: white;
+    font-size: 3.5rem;
+}
+
+.scritta_header b,
+.scritta_header i {
+    color: white;
+    text-shadow: 0 0 7px #ff5ab5,
+     0 0 10px #fff,
+      0 0 21px #fff,
+       0 0 42px #cf8fff,
+        0 0 82px #5b00ff,
+         0 0 92px #ff00c8,
+          0 0 102px #ff18c3,
+           0 0 151px #ff1ff8;
+
+           
+    text-shadow: 0 0 7px #ffffff,
+     0 0 10px #de9cff,
+      0 0 21px #ff7dd7,
+       0 0 42px #cf8fff,
+        0 0 82px #5b00ff,
+         0 0 92px #ff00c8,
+          0 0 102px #ff18c3,
+           0 0 151px #ff1ff8;
+}
+
+.contenitore_materie {
+    margin-bottom: -1rem;
+}
+
+.contenitore_materie .column {
+    text-align: center;
+}
+
+.contenitore_materie .image-section img {
+    width: 80%;
+    height: auto;
+}
+
+.dispari {
+    background-color: #f5f5f5;
+}
+
+
+.slider_container {
+    width: 35rem;
+}
+
+
+.slick-slider {
+    margin:0 -15px;
+}
+.slick-slide {
+    padding:10px;
+
+    text-align:center;
+    margin-right:15px;
+    margin-left:15px;
+}
