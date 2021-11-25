@@ -208,13 +208,13 @@
                     <div class="column image-section">
 
                         <figure class="images">
-                            <img src="./img/diritto.jpg">
+                            <img src="./img/educazione_fisica.jpg">
                         </figure>
 
                     </div>
 
                     <div class="column text-section">
-                        <h1 class="title">Diritto</h1>
+                        <h1 class="title">Educazione Fisica</h1>
                         <h2 class="subtitle">Progetti UDA</h2>
 
                         <div class="slider_container">
