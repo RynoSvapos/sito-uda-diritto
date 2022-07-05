@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Sito UDA Diritto</title>
     <link rel="stylesheet" href="style.css">
     
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
@@ -96,26 +96,18 @@
                         <!-- Additional required wrapper -->
                         <div class="swiper-wrapper">
                             <!-- Slides -->
-                            <a href="https://cdn.discordapp.com/attachments/428564398458798081/918629364663464026/Crisi_alimentari_e_conflitti_sono_parte_di_un.pptx"
-                               class="swiper-slide">
+                            <a href="https://prezi.com/p/igsxato3ykep/?present=1" class="swiper-slide">
                                 <img
-                                    src="https://cdn.discordapp.com/attachments/907943958833930280/918812214641721344/unknown.png">
-                            
+                                    src="https://0701.static.prezi.com/preview/v2/y5orofjoidtlu3jgr6dw5cybt36jc3sachvcdoaizecfr3dnitcq_3_0.png">
                             </a>
-                            
-                            <a href="https://cdn.discordapp.com/attachments/428564398458798081/918629395084742656/Violenza_sulle_donne.pptx"
-                               class="swiper-slide">
-                                <img
-                                    src="https://cdn.discordapp.com/attachments/907943958833930280/918812393444872212/unknown.png">
-                            
-                            </a>
-                            
                             <a href="https://prezi.com/p/zafu0ydrxqjz/" class="swiper-slide">
                                 <img
                                     src="https://cdn.discordapp.com/attachments/907943958833930280/918812594029080576/unknown.png">
-                            
                             </a>
-                        
+                            <a href="https://docs.google.com/presentation/d/1IlYWqmYXeiNTq1Ijs_lpXdsV-meKI_MY/edit?usp=sharing&ouid=117317767723693537105&rtpof=true&sd=true" class="swiper-slide">
+                                <img
+                                    src="./works/diritto/thumbnail.png">
+                            </a>
                         </div>
                         <!-- If we need pagination -->
                         <div class="swiper-pagination"></div>
@@ -152,18 +144,18 @@
                         <!-- Additional required wrapper -->
                         <div class="swiper-wrapper">
                             <!-- Slides -->
-                            <a href="#" class="swiper-slide">
-                                <img src="./img/placeholder.webp">
+                            <a href="https://docs.google.com/document/d/1-f7sXBED5F1TfdqxPcNXf3nKfN1H554Zyqprfm7Ym8U/edit?usp=sharing" class="swiper-slide">
+                                <img src="./works/italiano/shoah/thumbnail.png">
                             
                             </a>
                             
-                            <a href="#" class="swiper-slide">
-                                <img src="./img/placeholder.webp">
+                            <a href="https://docs.google.com/document/d/1IBkrcr9jJ67bPRKKp3SXEhuP9tXyjgZXjyAcxP6H_QU/edit?usp=sharing" class="swiper-slide">
+                                <img src="./works/italiano/primo-levi/thumbnail.png">
                             
                             </a>
                             
-                            <a href="#" class="swiper-slide">
-                                <img src="./img/placeholder.webp">
+                            <a href="https://docs.google.com/document/d/1SjOj-iqn0XiM_i9g48pHM4t-9lnbqOBk33pJpDTRweg/edit?usp=sharing" class="swiper-slide">
+                                <img src="./works/italiano/chiave-a-stella/thumbnail.png">
                             
                             </a>
                         
@@ -216,18 +208,8 @@
                         <!-- Additional required wrapper -->
                         <div class="swiper-wrapper">
                             <!-- Slides -->
-                            <a href="#" class="swiper-slide">
-                                <img src="./img/placeholder.webp">
-                            
-                            </a>
-                            
-                            <a href="#" class="swiper-slide">
-                                <img src="./img/placeholder.webp">
-                            
-                            </a>
-                            
-                            <a href="#" class="swiper-slide">
-                                <img src="./img/placeholder.webp">
+                            <a href="https://docs.google.com/presentation/d/18jizKmiu9FiNyZ6tC2a5G6mG5nPS8pCu/edit?usp=sharing&ouid=117317767723693537105&rtpof=true&sd=true" class="swiper-slide">
+                                <img src="./works/ed-fisica/thumbnail.jpg">
                             
                             </a>
                         
@@ -252,7 +234,6 @@
     
     <div id="filosofia" class="is-fluid container contenitore_materie dispari">
         
-        
         <section class="section">
             
             <div class="columns is-gapless" data-aos="fade-up">
@@ -266,20 +247,11 @@
                         <!-- Additional required wrapper -->
                         <div class="swiper-wrapper">
                             <!-- Slides -->
-                            <a href="#" class="swiper-slide">
-                                <img src="./img/placeholder.webp">
+                            <a href="https://prezi.com/p/-i3ng8eqky9o/?present=1" class="swiper-slide">
+                                <img src="https://0701.static.prezi.com/preview/v2/k4v6cqd345fdaz7tzvewj3pyb76jc3sachvcdoaizecfr3dnitcq_3_0.png">
                             
                             </a>
                             
-                            <a href="#" class="swiper-slide">
-                                <img src="./img/placeholder.webp">
-                            
-                            </a>
-                            
-                            <a href="#" class="swiper-slide">
-                                <img src="./img/placeholder.webp">
-                            
-                            </a>
                         
                         </div>
                         <!-- If we need pagination -->
@@ -330,18 +302,8 @@
                         <!-- Additional required wrapper -->
                         <div class="swiper-wrapper">
                             <!-- Slides -->
-                            <a href="#" class="swiper-slide">
-                                <img src="./img/placeholder.webp">
-                            
-                            </a>
-                            
-                            <a href="#" class="swiper-slide">
-                                <img src="./img/placeholder.webp">
-                            
-                            </a>
-                            
-                            <a href="#" class="swiper-slide">
-                                <img src="./img/placeholder.webp">
+                            <a href="https://prezi.com/p/yapbdnyfrzcr/?present=1" class="swiper-slide">
+                                <img src="./works/arte/thumbnail.png">
                             
                             </a>
                         
